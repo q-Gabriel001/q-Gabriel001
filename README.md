@@ -1,8 +1,8 @@
-###  E aí, beleza? Eu sou o Gabriel Araújo Soares
+###  Prazer, eu sou o Gabriel Araújo Soares
 
-🎮 Estudante de Analise e Desenvolvimento de Sistemas  
-💻 Desenvolvedor Back-End e de Jogos em formação    
-🧠 Viciado em aprender, programar e transformar ideia em projeto
+🎮 Estudante de jogos Digitais 
+
+💻 QA tester e Desenvolvedor
 
 ---
 
@@ -13,7 +13,6 @@
 ![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=python)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Godot](https://img.shields.io/badge/-Godot-3C7EBB?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ---
 
@@ -22,8 +21,6 @@
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 ---
 
 ###  Projetos que estou desenvolvendo
@@ -36,14 +33,6 @@
 
 - 🎮 **[Projetos em Godot](https://github.com/Mr-Princee/Kaiser_project_build_1.1)**  
   Jogos, protótipos e experimentos — de UI a lógica de combate
-
----
-
-###  O que eu tô buscando
-
-- Estágio em desenvolvimento de **jogos**, **web** **Software**
-- Um time com vontade de crescer junto  
-- Desafios que me tirem da zona de conforto e me deixem no modo "foco total"
 
 ---
 
