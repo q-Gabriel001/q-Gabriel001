@@ -25,13 +25,13 @@
 
 ###  Projetos que estou desenvolvendo
 
-- 🧠 **[FURIA Backend](https://github.com/Mr-Princee/rede-furia/tree/main/BackEnd)**  
+- 🧠 **[Rede Social(BackEnd)- Descontinuada](https://github.com/q-Gabriel001/Social-Media/tree/main/BackEnd)**  
   API com FastAPI + JWT + sistema de pontuação + feed de postagens
 
-- ⚛️ **[FURIA Frontend](https://github.com/Mr-Princee/rede-furia/commit/56cd62e15baff8e7a350aecb2d170661e06ab70a)**  
+- ⚛️ **[Rede Social (FrontEnd) - Descontinuada](https://github.com/q-Gabriel001/Social-Media/commit/56cd62e15baff8e7a350aecb2d170661e06ab70a#diff-df8944822a4d8ccc3cbdbad62f9c6eb02473874e2ad6259718c9f258294cabf5)**  
   UI com React, feed estilo Twitter, integração com backend e ideias malucas vindo aí
 
-- 🎮 **[Projetos em Godot](https://github.com/Mr-Princee/Kaiser_project_build_1.1)**  
+- 🎮 **[Projetos em Godot](https://github.com/q-Gabriel001/Lobos_e_Locos_2.0)** 
   Jogos, protótipos e experimentos — de UI a lógica de combate
 
 ---
