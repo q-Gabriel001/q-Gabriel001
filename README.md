@@ -34,7 +34,7 @@
 - **[Projetos em Godot](https://github.com/q-Gabriel001/Lobos_e_Locos_2.0)** 
   Jogos, protótipos e experimentos — de UI a lógica de combate
   
-- **[Projetos em Godot](https://github.com/q-Gabriel001/Sistema-de-envio-de-mensagem-simples)**
+- **[Sistema de Envio de Mensagem Simples](https://github.com/q-Gabriel001/Sistema-de-envio-de-mensagem-simples)**
   Python + Supabase + Z-API Whatsapp API
 ---
 
