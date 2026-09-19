@@ -1,46 +1,28 @@
-###  Prazer, eu sou o Gabriel Araújo Soares
+Prazer, eu sou o Gabriel Araújo Soares
 
-🎮 Estudante de jogos Digitais 
+💻 Suporte de TI e Desenvolvedor, migrando para DevOps
+🎮 Formado em Jogos Digitais pela Fatec Carapicuíba
 
-💻 QA tester e Desenvolvedor
+Linguagens e tecnologias que mais uso:
+PostgreSQL · FastAPI · Python · Linux · SQL · C# · Godot
 
----
+Também sei usar:
+React · JWT · Git · Docker (aprofundando)
 
-###  Linguagens e tecnologias que mais uso:
+Projetos que estou desenvolvendo
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=python)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Godot](https://img.shields.io/badge/-Godot-3C7EBB?style=for-the-badge&logo=godot-engine&logoColor=white)
+Sistema de Envio de Mensagem Simples
+Python + Supabase + Z-API WhatsApp API
 
----
+Projetos em Godot
+Jogos, protótipos e experimentos — de UI a lógica de combate
 
-### Também sei usar:
+Rede Social (BackEnd) - Descontinuada
+API com FastAPI + JWT + sistema de pontuação + feed de postagens
 
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
----
+Rede Social (FrontEnd) - Descontinuada
+UI com React, feed estilo Twitter, integração com backend
 
-###  Projetos que estou desenvolvendo
-
-- **[Rede Social(BackEnd)- Descontinuada](https://github.com/q-Gabriel001/Social-Media/tree/main/BackEnd)**  
-  API com FastAPI + JWT + sistema de pontuação + feed de postagens
-
-- **[Rede Social (FrontEnd) - Descontinuada](https://github.com/q-Gabriel001/Social-Media/commit/56cd62e15baff8e7a350aecb2d170661e06ab70a#diff-df8944822a4d8ccc3cbdbad62f9c6eb02473874e2ad6259718c9f258294cabf5)**  
-  UI com React, feed estilo Twitter, integração com backend e ideias malucas vindo aí
-
-- **[Projetos em Godot](https://github.com/q-Gabriel001/Lobos_e_Locos_2.0)** 
-  Jogos, protótipos e experimentos — de UI a lógica de combate
-  
-- **[Sistema de Envio de Mensagem Simples](https://github.com/q-Gabriel001/Sistema-de-envio-de-mensagem-simples)**
-  Python + Supabase + Z-API Whatsapp API
----
-
-###  Contato comigo
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-araujo2001/)
-- 💌 Email: gabrielaraujosoares1@gmail.com
-
----
+Contato comigo
+🔗 LinkedIn
+📧 Email: gabrielaraujosoares1@gmail.com
