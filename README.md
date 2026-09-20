@@ -1,10 +1,10 @@
 <h1 align="center">Olá, eu sou o Gabriel Araújo Soares </h1>
 <p align="center">Suporte de TI e Desenvolvedor, migrando para DevOps</p>
-<p align="center">Formado em Jogos Digitais pela Fatec Carapicuíba</p>
+<p align="center"> Formado em Jogos Digitais pela Fatec Carapicuíba</p>
 
 <br>
 
-###  Tecnologias que mais uso
+### 🛠️ Tecnologias que mais uso
 
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white" />
 </p>
 
-###  Também sei usar
+### Também sei usar
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
@@ -27,26 +27,23 @@
 
 ---
 
-###  Meus Projetos
+### 🚧 Projetos que estou desenvolvendo
 
-**Sistema de Envio de Mensagem Simples**
+**[Script de Criação de Usuários e Permissões Linux](https://github.com/q-Gabriel001/Linux-project---iacl)** - 
+Automação em Bash para administração Linux: criação de diretórios, grupos e usuários, associação aos grupos e configuração de permissões (chmod/chown)
+
+**[Sistema de Envio de Mensagem Simples](https://github.com/q-Gabriel001/Sistema-de-envio-de-mensagem-simples)** - 
 Python + Supabase + Z-API WhatsApp API
 
-**Script de Criação de Usuários e Permissões Linux**
-Linux + Bash
+**[Projeto em Godot](https://github.com/q-Gabriel001/Lobos_e_Locos_2.0)** - 
+Um jogo estilo Visual Novel com combate em turnos, desenvolvido na Godot Engine
 
-**Projetos em Godot**
-Jogos, protótipos e experimentos — de UI a lógica de combate
-
-**Rede Social (BackEnd)** — *descontinuado*
-API com FastAPI + JWT + sistema de pontuação + feed de postagens
-
-**Rede Social (FrontEnd)** — *descontinuado*
-UI com React, feed estilo Twitter, integração com backend
+**[Rede Social](https://github.com/q-Gabriel001/Social-Media)** — *descontinuado* - 
+API com FastAPI + JWT + sistema de pontuação + feed de postagens + UI com React, feed estilo Twitter, integração com backend
 
 ---
 
-###  Contato comigo
+### 📫 Contato comigo
 
 <p align="left">
   <a href="https://linkedin.com/in/gabriel-araújo2001"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
