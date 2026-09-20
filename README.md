@@ -32,6 +32,9 @@
 **Sistema de Envio de Mensagem Simples**
 Python + Supabase + Z-API WhatsApp API
 
+**Script de Criação de Usuários e Permissões Linux**
+Linux + Bash
+
 **Projetos em Godot**
 Jogos, protótipos e experimentos — de UI a lógica de combate
 
