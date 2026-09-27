@@ -29,17 +29,17 @@
 
 ### 🚧 Projetos que estou desenvolvendo
 
-**[Script de Criação de Usuários e Permissões Linux](https://github.com/q-Gabriel001/Linux-project---iacl)** - 
-Automação em Bash para administração Linux: criação de diretórios, grupos e usuários, associação aos grupos e configuração de permissões (chmod/chown)
+### Projetos que estou desenvolvendo
 
-**[Sistema de Envio de Mensagem Simples](https://github.com/q-Gabriel001/Sistema-de-envio-de-mensagem-simples)** - 
-Python + Supabase + Z-API WhatsApp API
+[Script de Criação de Usuários e Permissões Linux](https://github.com/q-Gabriel001/Linux-project---iac) - Automação em Bash para administração Linux: criação de diretórios, grupos e usuários, associação aos grupos e configuração de permissões (chmod/chown)
 
-**[Projeto em Godot](https://github.com/q-Gabriel001/Lobos_e_Locos_2.0)** - 
-Um jogo estilo Visual Novel com combate em turnos, desenvolvido na Godot Engine
+[Script de Provisionamento de Servidor Web](https://github.com/q-Gabriel001/Linux-project---iac2) - Automação em Bash para provisionamento de servidor Apache
 
-**[Rede Social](https://github.com/q-Gabriel001/Social-Media)** — *descontinuado* - 
-API com FastAPI + JWT + sistema de pontuação + feed de postagens + UI com React, feed estilo Twitter, integração com backend
+[Sistema de Envio de Mensagem Simples](https://github.com/q-Gabriel001/Sistema-de-envio-de-mensagem-simples) - Python + Supabase + Z-API WhatsApp API
+
+[Projeto em Godot](https://github.com/q-Gabriel001/Lobos_e_Locos_2.0) - Um jogo estilo Visual Novel com combate em turnos, desenvolvido na Godot Engine
+
+**Rede Social** (encerrado, mantido como referência) — API com FastAPI + JWT + sistema de pontuação + feed de postagens; UI com React, feed estilo Twitter, integração com backend
 
 ---
 
